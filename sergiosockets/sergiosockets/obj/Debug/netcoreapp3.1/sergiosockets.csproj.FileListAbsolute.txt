@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\sergiosockets\sergiosockets\bin\Debug\netcoreapp3.1\sergiosockets.exe
+C:\Users\PC\source\repos\sergiosockets\sergiosockets\bin\Debug\netcoreapp3.1\sergiosockets.deps.json
+C:\Users\PC\source\repos\sergiosockets\sergiosockets\bin\Debug\netcoreapp3.1\sergiosockets.runtimeconfig.json
+C:\Users\PC\source\repos\sergiosockets\sergiosockets\bin\Debug\netcoreapp3.1\sergiosockets.runtimeconfig.dev.json
+C:\Users\PC\source\repos\sergiosockets\sergiosockets\bin\Debug\netcoreapp3.1\sergiosockets.dll
+C:\Users\PC\source\repos\sergiosockets\sergiosockets\bin\Debug\netcoreapp3.1\sergiosockets.pdb
+C:\Users\PC\source\repos\sergiosockets\sergiosockets\obj\Debug\netcoreapp3.1\sergiosockets.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\sergiosockets\sergiosockets\obj\Debug\netcoreapp3.1\sergiosockets.Form1.resources
+C:\Users\PC\source\repos\sergiosockets\sergiosockets\obj\Debug\netcoreapp3.1\sergiosockets.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\sergiosockets\sergiosockets\obj\Debug\netcoreapp3.1\sergiosockets.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\sergiosockets\sergiosockets\obj\Debug\netcoreapp3.1\sergiosockets.AssemblyInfo.cs
+C:\Users\PC\source\repos\sergiosockets\sergiosockets\obj\Debug\netcoreapp3.1\sergiosockets.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\sergiosockets\sergiosockets\obj\Debug\netcoreapp3.1\sergiosockets.dll
+C:\Users\PC\source\repos\sergiosockets\sergiosockets\obj\Debug\netcoreapp3.1\sergiosockets.pdb
+C:\Users\PC\source\repos\sergiosockets\sergiosockets\obj\Debug\netcoreapp3.1\sergiosockets.genruntimeconfig.cache
+C:\Users\PC\source\repos\sergiosockets\sergiosockets\obj\Debug\netcoreapp3.1\sergiosockets.Properties.Resources.resources
